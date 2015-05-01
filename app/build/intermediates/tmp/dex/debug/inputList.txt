@@ -1,0 +1,2 @@
+/home/deepak/AndroidStudioProjects/SlidingMenu1/app/build/intermediates/classes/debug
+/home/deepak/AndroidStudioProjects/SlidingMenu1/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-232fc0033fe4dd416882e01752ad451967e24890.jar
